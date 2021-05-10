@@ -5,3 +5,8 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=kholilrnm&layout=compact" />
   </a>
 </p>
+
+## My Wakatime Stats ⌚
+<a href="https://github.com/kholilrnm">
+  <img align="center" src="@kholilrnm&compact=True">https://github-readme-stats.vercel.app/api/wakatime?username=@rahulbanerjee26&compact=True"/>
+</a>
