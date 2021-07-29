@@ -1,4 +1,4 @@
 <p align="center"> 
-  <img src="https://wakatime.com/share/@kholilrnm/25ffb0bb-545d-4135-bb4e-99fbefc58147.svg"></img>
+      <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=kholilrnm&layout=compact" />
 </p>
 
