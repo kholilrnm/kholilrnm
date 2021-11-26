@@ -2,10 +2,9 @@
 <h3 align="center">A Lifetime Learner</h3>
 
 ### Connect With Me
-<a href="https://kholilrnm.vercel.app/"/>
+<a href="https://kholilrnm.vercel.app/">Portofolio Website</a>
 
 <br />
-
 ### Languages and Tools
 <img align="left" alt=“Flutter” width="26px" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" />
 <img align="left" alt=“PHP” width="26px" src="https://www.vectorlogo.zone/logos/php/php-icon.svg" />
