@@ -4,8 +4,6 @@
 ### Connect With Me
 <img align="left" alt="portofolio" width="20px" src="https://kholilrnm.vercel.app/favicon.png" /><a href="https://kholilrnm.vercel.app/">Portofolio Website</a>
 
-<br />
-
 ### Languages and Tools
 <img align="left" alt=“Flutter” width="26px" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" />
 <img align="left" alt=“Laravel” width="27px" src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" />
