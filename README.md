@@ -2,7 +2,7 @@
 <h3 align="center">A Lifetime Learner</h3>
 
 ### Connect With Me
-<a href="https://kholilrnm.vercel.app/">Portofolio Website</a>
+<img align="left" alt="portofolio" width="26px" src="https://kholilrnm.vercel.app/favicon.png" /><a href="https://kholilrnm.vercel.app/">Portofolio Website</a>
 
 <br />
 ### Languages and Tools
